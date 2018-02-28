@@ -1,0 +1,7 @@
+
+label_0xf0104c::
+.string "{SIZE 0}{PALETTE 05}{COLOR_HIGHLIGHT_SHADOW}{SKY_BLUE}{LIGHT_BLUE}{WHITE2}LUCHA{CLEAR_TO 0x38}MOCHILA\n"
+.string "POKéMON{CLEAR_TO 0x38}HUIDA{SIZE 1}$"
+
+MensajeBatalla_QueHara::
+.string "¿Qué hará\n{STRING 0x12}?$"
