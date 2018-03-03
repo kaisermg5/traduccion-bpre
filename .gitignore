@@ -1,3 +1,6 @@
 *.sav
 *.gba
 build
+herramientas/gbagfx
+herramientas/preproc
+herramientas/scaninc
